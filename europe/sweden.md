@@ -27,3 +27,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Stockholm, VPS, 300 Mbit/s, IPv4, operated by laerad
   * `tls://se.laerad.top:54001?key=29512833cbca43f1f0bb1833d0edcb45791e66f7955c577b57fd0fc78892e2f8`
   * `quic://se.laerad.top:54001?key=29512833cbca43f1f0bb1833d0edcb45791e66f7955c577b57fd0fc78892e2f8`
+
+* Stockholm, VPS (borrowed), 5 Gbit/s, IPv4 only, also available on OpenNIC as dmwp.indy
+  * `tcp://dmwp.suckmost.org:1337`
+  * `tls://dmwp.suckmost.org:8647`
+  * `quic://dmwp.suckmost.org:8647`
+  * `ws://dmwp.suckmost.org:1984`
